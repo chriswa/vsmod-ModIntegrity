@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "side": "Universal",
+  "modid": "modintegrity",
+  "name": "ModIntegrity",
+  "authors": [
+    "goxmeor"
+  ],
+  "description": "Helps ensure that the client uses only mods approved by the server, including client-only mods.",
+  "version": "0.2.0",
+  "dependency": {}
+}
