@@ -17,7 +17,7 @@ Examples of the 4 types of mod issues:
 - Unrecognized or banned source type "DLL" for mod "Drifter Googly Eyes" — please update this mod to use a known good source type, such as: Zip
 - Unrecognized or banned fingerprint for mod "Secret Drift Wolves" — please update this mod with a freshly downloaded copy.
 
-The message "Please contact the server owner with any problems or to request new mods." can be customized in `%appdata/VintagestoryData/ModConfig/ModIntegrity.json`. You should may want to add your own contact information!
+The message "Please contact the server owner with any problems or to request new mods." can be customized in `%appdata%/VintagestoryData/ModConfig/ModIntegrity.json`. You should may want to add your own contact information!
 
 ## Primary Motivation
 
